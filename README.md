@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Predicting Depression](https://github.com/NilayYUCEL/Predicting-Depression)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Mining**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NilayYUCEL?tab=repositories](https://github.com/NilayYUCEL?tab=repositories)
 

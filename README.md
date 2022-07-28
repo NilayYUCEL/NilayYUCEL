@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nilay</h1>
-<h3 align="center">New graduate computer engineer from Turkey</h3>
+<h3 align="center">Junior Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilayyucel&label=Profile%20views&color=0e75b6&style=flat" alt="nilayyucel" /> </p>
 
-- 🔭 I’m currently working on [Predicting Depression](https://github.com/NilayYUCEL/Predicting-Depression)
-
-- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NilayYUCEL?tab=repositories](https://github.com/NilayYUCEL?tab=repositories)
 

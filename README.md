@@ -16,7 +16,7 @@
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
-- Cx_Oracle
+⋅⋅* Cx_Oracle
 - SQLAlchemy
 ** SQL/PLSQL
 * ODI 12C

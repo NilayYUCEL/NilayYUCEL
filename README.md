@@ -19,18 +19,18 @@
 
 - Cx_Oracle
 - SQLAlchemy
-** SQL/PLSQL
-* ODI 12C
-* Numpy
-* Pan﻿das
-Pillow
-Scikit-Learn
-BeautifulSoup
-Seleni﻿um
-Turkish﻿Stemmer
-Zemberek
-Matplotlib
-Seaborn
-SciPy
-Netw﻿o﻿rkX
-OpenCV
+- SQL/PLSQL
+- ODI 12C
+- Numpy
+- Pan﻿das
+- Pillow
+- Scikit-Learn
+- BeautifulSoup
+- Seleni﻿um
+- Turkish﻿Stemmer
+- Zemberek
+- Matplotlib
+- Seaborn
+- SciPy
+- Netw﻿o﻿rkX
+- OpenCV

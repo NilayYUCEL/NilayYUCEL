@@ -5,4 +5,4 @@ Data Science-Machine Learning-Data Design-Python-ETL-SQL/PLSQL-Web Scraping-Clus
 
 - 👨‍💻 All of my projects are available at [https://github.com/NilayYUCEL?tab=repositories](https://github.com/NilayYUCEL?tab=repositories)
 
-- 📫 How to reach me **yucelnilay024@gmail.com** and **https://linkedin.com/in/nilay-yucel**
+- 📫 How to reach me: **yucelnilay024@gmail.com** and **https://linkedin.com/in/nilay-yucel**
